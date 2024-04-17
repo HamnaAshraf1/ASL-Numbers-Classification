@@ -1,6 +1,7 @@
+opencv-python-headless
+opencv-contrib-python
 streamlit
 numpy
-opencv-python-headless
 mediapipe
 scikit-image
 tensorflow
