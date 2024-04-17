@@ -66,6 +66,11 @@ An ML solution that will be able to help people with disabilities makes me inter
     - Streamlit
 
 
+<br>
+
+## [Click here for Notebook HTML](https://hamnaashraf1.github.io/CSCN8010-labs/group4_ASL_Numbers_final_project.html)
+
+<br>
 
 <!-- CONTACT -->
 ## Contact
