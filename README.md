@@ -1,9 +1,10 @@
+
+
 <a name="readme-top"></a>
 
 <div align="center">
-# ASL-Numbers-Classification
 
-[ASL-Numbers-Classification](https://github.com/HamnaAshraf1/ASL-Numbers-Classification)
+# [ASL-Numbers-Classification](https://github.com/HamnaAshraf1/ASL-Numbers-Classification)
 
 <h3 align="center">    <a href="https://asl-numbers-classification.streamlit.app/"><strong><u>Check the Streamlit App</u> »</strong></a></h3>
 
@@ -18,8 +19,6 @@ Therefore, we came up with the idea which aims to create a machine learning solu
 ## What makes this project interesting?
 An ML solution that will be able to help people with disabilities makes me interested in the project. This project will provide us an opportunity to learn about not only related to IT field but also linguistics and psychology.
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -49,7 +48,7 @@ An ML solution that will be able to help people with disabilities makes me inter
 
 - Dataset source: https://www.kaggle.com/datasets/muhammadkhalid/sign-language-for-numbers 
   <br>
-- Performed EDA
+- Exploratory Data Analysis (EDA)
   <br>
 - Model Training
     - CNN
@@ -66,7 +65,6 @@ An ML solution that will be able to help people with disabilities makes me inter
 - Deployment
     - Streamlit
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- CONTACT -->
